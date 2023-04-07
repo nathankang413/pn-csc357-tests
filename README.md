@@ -6,6 +6,7 @@ Go to the appropriate directory to use/add test cases for any given lab or assig
 Refer to README's in each directory for specific instructions for adding/editing/testing.
 
 ## Contributions
+DO NOT UPLOAD YOUR ASSIGNMENT CODE HERE OR ANYWHERE - TESTS ONLY
 - To add your test cases, start by forking this repo. 
 - In this fork, you can add and edit your test cases freely. 
 - When you are ready to share them, push your changes and create a pull request to merge your changes into the `main` branch. 
