@@ -8,6 +8,7 @@ Refer to README's in each directory for specific instructions for adding/editing
 ## Naming conventions
 Label your branch with the first 2 characters of your first and last name. Optionally, make a new branch for each lab or assignment and label as such.
 - Ex: Phillip Nico, Assignment 1 -> phni-asgn01
+
 Label all your test files with the first 2 characters of your first and last name
 - Ex: Phillip Nico -> phni-test01
 - This is to avoid overwriting other people's test files
