@@ -23,4 +23,4 @@ Perhaps I will write a test harness similar to `~pn-csc357/demos/tryAsgn1`, TBD.
 
 ## Verifying tests
 Since any file with valid ascii characters should work for the demo programs, they should also work for our programs.
-Thus, no verification should be necessary.
+Thus, no verification should be necessary beyond successfully opening the file in a text editor.
